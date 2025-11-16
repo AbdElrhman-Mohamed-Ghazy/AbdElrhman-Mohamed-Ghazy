@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm AbdElrhman Mohamed Ghazy</h1>
-<h3 align="center">Backend Developer | .NET Enthusiast | Software Engineer</h3>
+<h3 align="center">Backend Developer | .NET  | Software Engineer</h3>
 
 <div align="center">
 
@@ -56,7 +56,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet core logo"  />
 </div>
 
 ### Tools & Development Environment
