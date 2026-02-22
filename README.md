@@ -16,19 +16,47 @@
 
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-I'm a Backend Developer passionate about **Software Development and Building Scalable Applications**.  
-With a strong foundation in **.NET Framework and Database Management**, I enjoy creating efficient and reliable backend systems.
+I'm a Backend Developer passionate about **building scalable, maintainable, and production-ready applications**.  
+I focus on applying **clean architecture principles**, **design patterns**, and **modern .NET technologies** to deliver well-structured backend systems.
 
-- 🔭 **Currently working on:** Developing my skills and building robust applications
-- 🌱 **Currently learning:** .NET Framework & Advanced Backend Technologies
-- 🏆 **Notable Project:** Built a complete DVLD Management System using Three-Tier Architecture
-- 💻 **Experience with:** ADO.NET, SQL Server, Windows Forms, Three-Tier Architecture
+- 🔭 **Currently working on:** ASP.NET Core Web APIs with Clean Architecture
+- 🌱 **Currently mastering:** CQRS, MediatR, Clean Architecture & Advanced Backend Patterns
+- 🏆 **Latest Project:** E-Commerce API built with Clean Architecture & CQRS on ASP.NET Core 8
+- 💻 **Strong in:** Clean Architecture, CQRS, Repository & Unit of Work, EF Core, SQL Server
 - 💼 **Open to:** Backend Development roles & collaborations
 - 📫 **Reach me at:** abdelrhmanmohamedghazy2000@gmail.com
 
 ---
 
 ## 💼 Featured Projects
+
+### 🛒 [E-Commerce API](https://github.com/AbdElrhman-Mohamed-Ghazy)
+A production-grade ASP.NET Core 8.0 backend for an e-commerce platform, built with a strong emphasis on **scalability**, **maintainability**, and **clean code principles**.
+
+**Tech Stack:** C#, ASP.NET Core 8.0, Entity Framework Core, SQL Server, MediatR, FluentValidation, Scrutor, Swagger
+
+**Architecture & Patterns Applied:**
+- 🏛️ **Clean Architecture** — isolated API, Application, Domain, and Infrastructure layers
+- ⚡ **CQRS with MediatR** — strict command/query separation for scalable request handling
+- 🗃️ **Repository & Unit of Work** — transactional consistency across multiple repositories
+- ✅ **FluentValidation via Pipeline Behaviors** — centralized, automatic request validation
+- 🔧 **Scrutor** — automatic dependency registration for clean, scalable DI setup
+- 🚨 **Centralized Exception Handling** — consistent `ProblemDetails` API responses
+
+**Core Features:**
+- 📦 Full Product & Category CRUD with search and filtering
+- 🛒 User-scoped Shopping Cart (add, update, remove, clear)
+- 📋 Order lifecycle management: `Pending → Paid → Shipped → Delivered / Cancelled`
+- 🖼️ Product Image upload, retrieval, and deletion (file system storage)
+- 🔒 Stock validation with atomic transactional order creation
+
+**Roadmap:**
+- [ ] Authentication & Authorization with ASP.NET Core Identity + JWT
+- [ ] Role-Based Access Control (Customer / Admin)
+- [ ] Redis Caching for product catalogs
+- [ ] Elasticsearch for advanced product search
+
+---
 
 ### 🚗 [DVLD - Driving & Vehicle License Department](https://github.com/AbdElrhman-Mohamed-Ghazy/DVLD_Project)
 A comprehensive desktop application for managing driving licenses, vehicle registrations, and license applications.
@@ -40,7 +68,6 @@ A comprehensive desktop application for managing driving licenses, vehicle regis
 - 👤 User Management with role-based access control
 - 📝 License Application Processing (New, Renewal, Replacement)
 - 📋 Test Scheduling and Management (Vision, Written, Practical)
-- 🚙 Driver and Vehicle Information Management
 - 💰 Payment and Fee Management
 - 📊 Comprehensive Reporting System
 
@@ -48,43 +75,40 @@ A comprehensive desktop application for managing driving licenses, vehicle regis
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
 </div>
 
 ### Frameworks & Technologies
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="ASP.NET Core" />
 </div>
 
-### Tools & Development Environment
+### Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visual studio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
 
 ---
 
+## 🎯 What I'm Focusing On
 
-
-## 🎯 Current Focus
-
-- 🔨 Building real-world applications with .NET Framework
-- 📚 Deepening knowledge in Software Architecture patterns
-- 🌐 Exploring ASP.NET Core Web API development
-- 🗃️ Mastering Database Design and Optimization
-- 🚀 Learning modern Backend technologies and best practices
+- 🏗️ Building production-ready APIs with **Clean Architecture & CQRS**
+- 🔐 Implementing **Authentication & Authorization** with ASP.NET Core Identity + JWT
+- ⚡ Exploring **Redis Caching** and **Elasticsearch** for performance optimization
+- 🗃️ Mastering **Database Design, EF Core**, and query optimization
+- 📐 Deepening knowledge in **Software Architecture patterns** and best practices
 
 ---
 
@@ -101,7 +125,6 @@ A comprehensive desktop application for managing driving licenses, vehicle regis
 ---
 
 <div align="center">
-  
 
 **Thanks for visiting! Let's connect and build something amazing together!** 🚀
 
