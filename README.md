@@ -28,51 +28,6 @@ I focus on applying **clean architecture principles**, **design patterns**, and 
 
 ---
 
-## 💼 Featured Projects
-
-### 🛒 [E-Commerce API](https://github.com/AbdElrhman-Mohamed-Ghazy)
-A production-grade ASP.NET Core 8.0 backend for an e-commerce platform, built with a strong emphasis on **scalability**, **maintainability**, and **clean code principles**.
-
-**Tech Stack:** C#, ASP.NET Core 8.0, Entity Framework Core, SQL Server, MediatR, FluentValidation, Scrutor, Swagger
-
-**Architecture & Patterns Applied:**
-- 🏛️ **Clean Architecture** — isolated API, Application, Domain, and Infrastructure layers
-- ⚡ **CQRS with MediatR** — strict command/query separation for scalable request handling
-- 🗃️ **Repository & Unit of Work** — transactional consistency across multiple repositories
-- ✅ **FluentValidation via Pipeline Behaviors** — centralized, automatic request validation
-- 🔧 **Scrutor** — automatic dependency registration for clean, scalable DI setup
-- 🚨 **Centralized Exception Handling** — consistent `ProblemDetails` API responses
-
-**Core Features:**
-- 📦 Full Product & Category CRUD with search and filtering
-- 🛒 User-scoped Shopping Cart (add, update, remove, clear)
-- 📋 Order lifecycle management: `Pending → Paid → Shipped → Delivered / Cancelled`
-- 🖼️ Product Image upload, retrieval, and deletion (file system storage)
-- 🔒 Stock validation with atomic transactional order creation
-
-**Roadmap:**
-- [ ] Authentication & Authorization with ASP.NET Core Identity + JWT
-- [ ] Role-Based Access Control (Customer / Admin)
-- [ ] Redis Caching for product catalogs
-- [ ] Elasticsearch for advanced product search
-
----
-
-### 🚗 [DVLD - Driving & Vehicle License Department](https://github.com/AbdElrhman-Mohamed-Ghazy/DVLD_Project)
-A comprehensive desktop application for managing driving licenses, vehicle registrations, and license applications.
-
-**Tech Stack:** C#, .NET Framework, ADO.NET, SQL Server, WinForms  
-**Architecture:** Three-Tier Architecture (Presentation, Business, Data Access)
-
-**Key Features:**
-- 👤 User Management with role-based access control
-- 📝 License Application Processing (New, Renewal, Replacement)
-- 📋 Test Scheduling and Management (Vision, Written, Practical)
-- 💰 Payment and Fee Management
-- 📊 Comprehensive Reporting System
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -105,7 +60,7 @@ A comprehensive desktop application for managing driving licenses, vehicle regis
 ## 🎯 What I'm Focusing On
 
 - 🏗️ Building production-ready APIs with **Clean Architecture & CQRS**
-- 🔐 Implementing **Authentication & Authorization** with ASP.NET Core Identity + JWT
+- 🔐 Implementing **Authentication & Authorization** + JWT
 - ⚡ Exploring **Redis Caching** and **Elasticsearch** for performance optimization
 - 🗃️ Mastering **Database Design, EF Core**, and query optimization
 - 📐 Deepening knowledge in **Software Architecture patterns** and best practices
