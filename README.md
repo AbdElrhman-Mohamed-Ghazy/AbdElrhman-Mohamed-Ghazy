@@ -14,7 +14,9 @@
 
 ## 🚀 About Me
 
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<p align="center">
+  <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+</p>
 
 I'm a Backend Developer passionate about **building scalable, maintainable, and production-ready applications**.  
 I focus on applying **clean architecture principles**, **design patterns**, and **modern .NET technologies** to deliver well-structured backend systems.
